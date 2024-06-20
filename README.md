@@ -28,7 +28,7 @@
 2. file -> build settings를 선택합니다.
 3. android로 switch platform을 선택합니다.
 4. Scenes 폴더에 있는 씬들을 scenes in build에 추가합니다.
-5. 테스트하고자 하는 씬을 열고, 상단의 Play 버튼을 클릭합니다.
+5. 테스트하고자 하는 씬(1번 씬: Title)을 열고, 상단의 Play 버튼을 클릭합니다.
 6. 테스트 계정 : 이메일 - tmm19@ewha.ac.kr , 비밀번호 - catchtime<br><br>
 
 ## 사용된 데이터베이스 또는 데이터
