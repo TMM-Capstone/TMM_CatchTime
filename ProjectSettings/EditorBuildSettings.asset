@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BreakTimerScene.unity
+    guid: 8f8997a8fc893ee4ba8b1a0012f96e31
+  - enabled: 1
+    path: Assets/Scenes/capstone_main.unity
+    guid: c241184dd37dbd743ba3eff77d0cea8c
+  - enabled: 1
+    path: Assets/Scenes/FriendAccept.unity
+    guid: 0260fcd8dbb49b24586c8aea24f60dbe
+  - enabled: 1
+    path: Assets/Scenes/FriendHouse.unity
+    guid: 3b280df771a101b41a1d86e127ba5f2b
+  - enabled: 1
+    path: Assets/Scenes/FriendList.unity
+    guid: 56f57acd94cb383489fabf2763c18d2b
+  - enabled: 1
+    path: Assets/Scenes/FriendPlus.unity
+    guid: 81250e560c807cd4bbc6473f81d100b0
+  - enabled: 1
+    path: Assets/Scenes/FriendReport.unity
+    guid: feffddf3af75e384784d0ce1bd9511a1
+  - enabled: 1
+    path: Assets/Scenes/GiveUpMain.unity
+    guid: 84c47659143db374f80ff493c3c6326f
+  - enabled: 1
+    path: Assets/Scenes/ItemBag.unity
+    guid: 4ef167cc321c6174fb2df802feacbba3
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 2af3e8a309ef17547b79dd92b7747549
+  - enabled: 1
+    path: Assets/Scenes/NewRewardScene.unity
+    guid: f00880495e34cd24ba6d35250b5331b7
+  - enabled: 1
+    path: Assets/Scenes/Report.unity
+    guid: 032e34477324ffc44bdabc816b1e2d1e
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: ffd843173540d644db2f2451b9dcb108
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 32760c0ddc85f994ea1c3cb93d926303
+  - enabled: 1
+    path: Assets/Scenes/TimerSetup.unity
+    guid: 0bdca99afcc0ebf4aad4bc497e98ec4b
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 42a831d6da43fe8458251c87cfcf1a3f
+  - enabled: 1
+    path: Assets/Scenes/WorkTimerScene.unity
+    guid: f1b6787a5e6b6254e9f92584eaa6389e
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 24ad9b78fdc6c8041bc6b71fa4d42e4d, type: 2}

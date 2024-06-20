@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844591896415",
+    "project_id": "tmmcatchtime",
+    "storage_bucket": "tmmcatchtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844591896415:android:f41c1de8182921173948ea",
+        "android_client_info": {
+          "package_name": "com.TMM.CatchTime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUyUJWhsUg15bvE5AqcpVOSEOcP-DohQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
