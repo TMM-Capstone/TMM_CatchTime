@@ -33,12 +33,12 @@
 
 ## 사용된 데이터베이스 또는 데이터
 ### 프로젝트에서 사용된 데이터베이스입니다.
-* Firebase: 유저 데이터를 저장하기 위해 사용.<br><br>
+- Firebase: 유저 데이터를 저장하기 위해 사용.<br><br>
 
 ## 사용된 오픈 소스 구성 요소
 ### 프로젝트에서 사용된 오픈 소스입니다.
-* TextMeshPro: 텍스트 렌더링을 위해 사용.<br>
-* 폰트 이름: Galmuri14<br>
-- 라이선스: SIL Open Font License 1.1<br>
-- 출처: https://galmuri.quiple.dev/<br>
-- 저작권자: quiple
+- TextMeshPro: 텍스트 렌더링을 위해 사용.<br>
+  - 폰트 이름: Galmuri14<br>
+  - 라이선스: SIL Open Font License 1.1<br>
+  - 출처: https://galmuri.quiple.dev/<br>
+  - 저작권자: quiple
